@@ -1,7 +1,7 @@
 # The Spark Foundation: Data Science And Business Analytics Tasks
 
 <center>
-<img src='./images/logo_small.png' />
+<img src='./images/logo_small.png' align = 'center'/>
 </center>
 
 ## Task 2: Prediction using Unsupervised ML
