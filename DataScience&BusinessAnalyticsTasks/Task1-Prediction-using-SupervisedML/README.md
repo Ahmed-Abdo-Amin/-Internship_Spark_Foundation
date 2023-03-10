@@ -1,8 +1,5 @@
-# The Spark Foundation: Data Science And Business Analytics Tasks
+# <img src='./images/logo_small.png' align='left' width='70'> The Spark Foundation: Data Science And Business Analytics Tasks
 
-<center>
-<img src='./images/logo_small.png' />
-</center>
 
 ## Task 1: Prediction using Supervised ML
 #### Target: Predict the percentage of marks that a student is expected to score based upon the number of hours they studied. 
