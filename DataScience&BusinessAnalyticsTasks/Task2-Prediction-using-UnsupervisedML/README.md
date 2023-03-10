@@ -1,7 +1,7 @@
 # The Spark Foundation: Data Science And Business Analytics Tasks
 
 
-## <img src='./images/logo_small.png' align='center'>
+# <img src='./images/logo_small.png' align='center'> 
 
 ## Task 2: Prediction using Unsupervised ML
 #### Target : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
@@ -580,7 +580,7 @@ plt.show()
 
 
     
-![png](Task2-Prediction-using-UnsupervisedML_files/Task2-Prediction-using-UnsupervisedML_20_1.png)
+![png](images/Task2-Prediction-using-UnsupervisedML_20_1.png)
     
 
 
